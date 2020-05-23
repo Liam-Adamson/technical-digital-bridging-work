@@ -1,0 +1,5 @@
+A for loop is a form of <iteration>.
+Python is a <idle> (integrated development learning environment).
+Data can be stored in a <variable>.
+Programmers <decompose> a problem into smaller problems.
+There is extra data on files called <metadata> this includes locations and date and time the file was made.
