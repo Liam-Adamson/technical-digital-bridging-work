@@ -1,0 +1,2 @@
+type this into command prompt to download inflect:
+pip install inflect
